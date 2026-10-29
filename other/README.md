@@ -33,10 +33,11 @@ Dockerfile / Dockerfile.cvm → OCI 镜像
 
 ## 目录
 
+本地 Markdown 编辑器已迁到 [look-md](../../look-md/README.md)。
+
 | 目录 | 说明 |
 | --- | --- |
 | [self_check/](./self_check/README.md) | 本机卡顿自检 |
-| [showMD/](./showMD/README.md) | 本地 Markdown 编辑器（**Tauri 2 + React**，`pnpm tauri dev`） |
 | [reactjs-from-0-to-1/](./reactjs-from-0-to-1/README.md) | React 用法（到 **19.2**） |
 | [react-source-from-0-to-1/](./react-source-from-0-to-1/README.md) | React 源码：Didact + [卡颂](https://react.iamkasong.com/) 架构 + **19.2** |
 | [vue2-from-0-to-1/](./vue2-from-0-to-1/README.md) | Vue 2 |
